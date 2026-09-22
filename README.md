@@ -59,16 +59,10 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
-**AI assistants:**<br>
-![Claude](https://img.shields.io/badge/Claude-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=google&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-0EA5E9?style=for-the-badge&logo=deepseek&logoColor=white)
 
 **Also worked with:**<br>
-AI workflows powered by Claude, ChatGPT, Gemini, DeepSeek · OCR · Voice Assistants · Web Scraping · PDF processing · Network/Router projects
+AI workflows · OCR · Voice Assistants · Web Scraping · PDF processing · Network/Router projects
 
-    </td>
   </tr>
 </table>
 
